@@ -1,11 +1,5 @@
-### Hi there 👋
 
-
-**PavelSilinskii/PavelSilinskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Digital centr
+- 🔭 I’m currently working on Digital center
 - 🌱 I’m currently learning python,vueJs,django
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
